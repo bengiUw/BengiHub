@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bengiUw/BengiHubdigeri/main/SystemUI.txt"))() -- LIBRARY
 
-local Window = Library:CreateWindow('JOTARO HUB - Made By Bengi_Uw') -- CREATE WINDOW
+local Window = Library:CreateWindow('WORTMAN HUB - Made By Bengi_Uw') -- CREATE WINDOW
 
 local Tab = { -- CREATE TABS
     Tab_1 = Window:addTab('#Home'),
